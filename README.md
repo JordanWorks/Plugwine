@@ -6,7 +6,7 @@ La solution est composée de deux projets :
 
 - Un premier (Plugwine) qui contient l'application console avec le code source répondant aux questions
 
-- Le second (PlugwineTests) qui contient les tests mis en place pour produire ce code. Ce code par ailleurs été produit en TDD.
+- Le second (PlugwineTests) qui contient les tests mis en place pour produire ce code. Ce code a par ailleurs été produit en TDD.
 
 J'en profite pour apporter quelques précisions :
 
