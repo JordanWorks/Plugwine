@@ -5,3 +5,4 @@ c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debu
 c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Newtonsoft.Json.xml
 c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\obj\Debug\Plugwine.exe
 c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\obj\Debug\Plugwine.pdb
+C:\Users\Jordan\Documents\Visual Studio 2015\Projects\Plugwine\Plugwine\obj\Debug\Plugwine.csprojResolveAssemblyReference.cache
