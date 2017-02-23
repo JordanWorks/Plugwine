@@ -1,0 +1,11 @@
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\obj\Debug\PlugwineTests.csprojResolveAssemblyReference.cache
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\PlugwineTests.dll
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\PlugwineTests.pdb
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\Plugwine.exe
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\Plugwine.pdb
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\obj\Debug\PlugwineTests.dll
+c:\Users\Jordan\documents\visual studio 2015\Projects\Plugwine\PlugwineTests\obj\Debug\PlugwineTests.pdb

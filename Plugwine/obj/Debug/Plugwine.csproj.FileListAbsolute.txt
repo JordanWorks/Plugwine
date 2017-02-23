@@ -1,0 +1,7 @@
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Plugwine.exe.config
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Plugwine.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Plugwine.pdb
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Newtonsoft.Json.dll
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\bin\Debug\Newtonsoft.Json.xml
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\obj\Debug\Plugwine.exe
+c:\users\jordan\documents\visual studio 2015\Projects\Plugwine\Plugwine\obj\Debug\Plugwine.pdb
